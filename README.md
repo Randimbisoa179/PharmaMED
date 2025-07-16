@@ -37,3 +37,25 @@ Ce projet consiste à développer une application de gestion de pharmacie permet
    - Histogramme des recettes par mois (5 derniers mois).
 
 ## Exemple de facture
+Date : 23/05/2023
+Nom du Client : RAKOTO Bernard
+
+Désignation	Prix Unitaire	Nombre	Total
+Paracétamol	1000	2	2000 Ar
+Vitamine C	500	3	1500 Ar
+3500 Ar
+
+## Technologies recommandées
+- **Backend** : PHP, Node.js, ou Python (avec Flask/Django).
+- **Base de données** : MySQL ou PostgreSQL.
+- **Génération de PDF** : Bibliothèque comme FPDF (PHP) ou pdfkit (Python/Node.js).
+- **Graphiques** : Bibliothèque comme Chart.js ou matplotlib pour l'histogramme.
+
+## Installation
+1. Cloner le dépôt du projet.
+2. Configurer la base de données avec les tables décrites ci-dessus.
+3. Installer les dépendances nécessaires (ex: bibliothèques pour PDF et graphiques).
+4. Lancer l'application.
+
+## Auteur
+RANDIMBISOAHERINIRINA Euben José Tyran
