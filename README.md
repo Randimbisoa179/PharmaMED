@@ -46,10 +46,10 @@ Vitamine C	500	3	1500 Ar
 3500 Ar
 
 ## Technologies recommandées
-- **Backend** : PHP, Node.js, ou Python (avec Flask/Django).
-- **Base de données** : MySQL ou PostgreSQL.
-- **Génération de PDF** : Bibliothèque comme FPDF (PHP) ou pdfkit (Python/Node.js).
-- **Graphiques** : Bibliothèque comme Chart.js ou matplotlib pour l'histogramme.
+- **Backend** : PHP.
+- **Base de données** : MySQL.
+- **Génération de PDF** : Bibliothèque comme FPDF (PHP).
+- **Graphiques** : Bibliothèque comme Chart.js.
 
 ## Installation
 1. Cloner le dépôt du projet.
