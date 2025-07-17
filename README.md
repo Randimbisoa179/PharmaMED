@@ -67,7 +67,7 @@ TOTAL	3500 Ar
 
 Installer les dépendances :
 
-bash
+
 composer install
 npm install
 Configurer la base de données dans .env.
