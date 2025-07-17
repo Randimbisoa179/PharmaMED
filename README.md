@@ -70,16 +70,19 @@ Installer les dépendances :
    ```bash
 composer install
 npm install
+   ```
 
 Configurer la base de données dans .env.
 
 Exécuter les migrations :
-
    ```bash
+   
 
 php artisan migrate
+   ```
 
 Lancer l'application :
 
+   ```bash
 
 php artisan serve
