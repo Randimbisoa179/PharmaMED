@@ -34,22 +34,22 @@ Ce projet consiste à développer une application de gestion de pharmacie avec l
 
 ### II) Fonctionnalités (Traitements)
 1. **CRUD**  
-   - Création, listage, suppression et modification des 3 tables (9 pts).  
+   - Création, listage, suppression et modification des 3 tables .  
 
 2. **Gestion des stocks**  
-   - Signalement en cas de stock insuffisant (1 pt).  
-   - Liste des médicaments en rupture de stock (moins de 5 en quantité) (1 pt).  
+   - Signalement en cas de stock insuffisant .  
+   - Liste des médicaments en rupture de stock (moins de 5 en quantité) .  
 
 3. **Recherche**  
-   - Recherche de médicament par désignation avec `LIKE %...%` (1 pt).  
+   - Recherche de médicament par désignation avec `LIKE %...%` .  
 
 4. **Facturation**  
-   - Génération d'une facture (PDF) pour les clients après achat (3 pts).  
+   - Génération d'une facture (PDF) pour les clients après achat .  
 
 5. **Statistiques**  
-   - Recette totale accumulée par la pharmacie (1 pt).  
-   - Affichage des 5 médicaments les plus vendus (2 pts).  
-   - Histogramme des recettes par mois (les 5 derniers mois) avec Chart.js (2 pts).  
+   - Recette totale accumulée par la pharmacie .  
+   - Affichage des 5 médicaments les plus vendus .  
+   - Histogramme des recettes par mois (les 5 derniers mois) avec Chart.js .  
 
 ### Exemple de facture
 Date : 23/05/2023
